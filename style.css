@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+nav{
+    background-color:rgb(45,45,45);
+    height: 2rem;
+    padding-right: 1rem;
+}   
+nav> a{
+    color: white;
+    float: right;
+    text-decoration: none;
+    padding-right: .8rem;
+    padding-top: 0.5rem;
+    font-size: .8rem;
+}
+.nav2{
+    background-color:rgb(54,118,94);
+    height: 4rem;
+}
+.nav2> div> img{
+    width: 3rem;
+    height: 3rem;
+    padding-left: 3.5rem;
+    padding-top: 0.5rem;
+}
+.nav2> .d2{
+float: right;
+}
+.nav2> .d1, .d2{
+    display: inline;
+}
+.nav2> .d2> ol{
+    display: inline;
+   
+}
+.nav2>.d2>ol>a{
+    color: white;
+    padding-right: .7rem;
+    position: relative;
+    top: 1rem;
+    text-decoration: none;
+}
+ 
+.nav2>.d2>ol>.cl0:hover{
+    border: 1rem yellow;
+
+}
+footer >img{
+   
+}
